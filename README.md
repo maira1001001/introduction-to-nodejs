@@ -11,7 +11,7 @@ The reposity has the four (4) parts:
 3. testing
 4. modules (internal, personal and remote)
 
-# API (async code)
+# 1. API (async code)
 
 Build a simple API with `http` module.
 
@@ -23,7 +23,7 @@ Build a simple API with `http` module.
 
 Refactor and fix a simple static asset server. The server uses blocking sync code and crashes whenever a request comes in that is asking for and asset that is not found. Neither of those are desirable. You'll also have to teach the server how to server the assets it has in the assets folder.
 
-# CLI (npm)
+# 2. CLI (npm)
 
 Create a CLI program that saves and retrieves entrepreneurs contacts from and address book. The program uses the fileSystem to get things to work.
 
@@ -42,13 +42,13 @@ Create a CLI program that saves and retrieves entrepreneurs contacts from and ad
 1. fix the CLI so the `new` command works by saving contacts to `entrepreneurs.json`
 2. fix the CLI so that the `list` command works by listing all the entrepreneurs and allowing you to select one, then prints out the selected entrepreneur
 
-# modules
+# 3. MODULES
 
 - location: `modules/`
 - command:
   - playing with modules: `node app.js`
 
-# testing
+# 4. TESTING
 
 - location: `testing/`
 - commands:
