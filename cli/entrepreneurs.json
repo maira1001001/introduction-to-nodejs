@@ -1,0 +1,17 @@
+{
+  "Sergio Fernandez": {
+    "industry": "entrepreneurs",
+    "products": ["plan de 40 días para vivir en abundancia"],
+    "vision": "darle herramientas a las personas para que encuentren su propósito y puedan vivir de él"
+  },
+  "Vitalik Buterin": {
+    "industry": "blockchain",
+    "product": ["ethereum blockchain"],
+    "vision": "to build a decentralized platform where dev could build and negociate with digital assets by their own"
+  },
+  "Maira Marraffini": {
+    "name": "Maira Marraffini",
+    "products": "Collaborate each other Platform",
+    "vision": "Grow in community and meet amazing devs!!"
+  }
+}
